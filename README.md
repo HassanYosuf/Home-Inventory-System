@@ -12,8 +12,8 @@ It is a platform dependent API for creating Graphical User Interface (GUI) for j
 <h5>For more</h5>https://www.javatpoint.com/java-awt
 </br>
 </br>
-<h4>The idea of the program is to enter and/or view descriptive information about each item in your
-inventory. You can enter:</h4>
+<h2>The idea of the program is to enter and/or view descriptive information about each item in your
+inventory. You can enter:</h2>
 
 <h5>Inventory Item</h5> - A description of the item (required)</br>
 <h5>Location</h5> - Description of where item is located</br>
