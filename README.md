@@ -10,10 +10,10 @@ Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation C
  <h2> AWT(Abstract Window Toolkit) </h2>
 It is a platform dependent API for creating Graphical User Interface (GUI) for java programs.
 <h5>For more</h5>https://www.javatpoint.com/java-awt
-
-
-The idea of the program is to enter and/or view descriptive information about each item in your
-inventory. You can enter:
+</br>
+</br>
+<h4>The idea of the program is to enter and/or view descriptive information about each item in your
+inventory. You can enter:</h4>
 
 <h5>Inventory Item</h5> - A description of the item (required)</br>
 <h5>Location</h5> - Description of where item is located</br>
