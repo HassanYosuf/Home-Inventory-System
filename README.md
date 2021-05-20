@@ -3,6 +3,14 @@
 In this project, i have build a home inventory manager program. This program lets you keep a
 record of your belongings.
 
+<h2>Swing (GUI) </h2>
+Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
+<h5>For more</h5> https://www.geeksforgeeks.org/creating-frames-using-swings-java/
+
+ <h2> AWT(Abstract Window Toolkit) </h2>
+It is a platform dependent API for creating Graphical User Interface (GUI) for java programs.
+<h5>For more</h5>https://www.javatpoint.com/java-awt
+
 
 The idea of the program is to enter and/or view descriptive information about each item in your
 inventory. You can enter:
