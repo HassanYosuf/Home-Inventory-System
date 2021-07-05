@@ -1,7 +1,6 @@
 # Home-Inventory-System
 
-In this project, i have build a home inventory manager program. This program lets you keep a
-record of your belongings.
+The Home Inventory Manager helps you keep track of your valuable belongings. For every item in your inventory, the program stores a description, location, serial number, purchase information, and even a photo.
 
 <h2>Swing (GUI) </h2>
 Swing is a GUI widget toolkit for Java. It is part of Oracle's Java Foundation Classes (JFC) – an API for providing a graphical user interface (GUI) for Java programs.
